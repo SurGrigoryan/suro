@@ -55,6 +55,8 @@ async function createAdmin() {
   }
 }
 createAdmin();
+fhsDFHSDFGH
+gSDGAFRDGHDFSH
 // if (process.argv.includes("--delete")) {
 //   deleteData();
 // } else {
