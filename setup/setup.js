@@ -58,6 +58,8 @@ asefasdfgsdagfsadgadfgad
 gadfsdgarefdghafh
 fgadhbgsjgsfdbv 
 createAdmin();
+fhsDFHSDFGH
+gSDGAFRDGHDFSH
 // if (process.argv.includes("--delete")) {
 //   deleteData();
 // } else {
